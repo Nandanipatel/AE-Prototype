@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:ae_events/screens/home.dart';
-import 'package:ae_events/screens/onBoarding_1.dart';
+import 'package:ae_events/components/OnBoarding/onBoarding_1.dart';
 import 'package:flutter/material.dart';
 
 class splashScreen extends StatefulWidget {

@@ -1,6 +1,7 @@
-import 'package:ae_events/screens/facebook.dart';
+
+import '../components/SignUp/facebook.dart';
 import 'package:ae_events/screens/home.dart';
-import 'package:ae_events/screens/onBoarding_2.dart';
+import '../components/OnBoarding/onBoarding_2.dart';
 import 'package:flutter/material.dart';
 
 class SignUp extends StatefulWidget {

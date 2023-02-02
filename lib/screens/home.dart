@@ -1,10 +1,10 @@
-import 'package:ae_events/screens/onBoarding_2.dart';
+import 'package:ae_events/components/OnBoarding/onBoarding_2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
-import 'facebook.dart';
+import '../components/SignUp/facebook.dart';
 
 class Home extends StatefulWidget {
   const Home({this.image, this.name, this.email});

@@ -1,4 +1,4 @@
-import 'package:ae_events/screens/facebook.dart';
+import '../SignUp/facebook.dart';
 import 'package:ae_events/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
